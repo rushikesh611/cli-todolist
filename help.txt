@@ -1,0 +1,7 @@
+The following commands are available:
+1. todo add item_names => add a todo item
+2. todo ls => show all the todo items
+3. todo del item_id => delete a todo item
+4. todo done item_id => mark a todo item as completed
+5. help => prints this...
+6. quit => exit the application
